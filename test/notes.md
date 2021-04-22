@@ -1,5 +1,7 @@
 # NOTES
 
+Notes to remember for my small ass brain
+
 ## TODO
 
 4/21/2021
