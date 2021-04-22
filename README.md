@@ -26,7 +26,7 @@ This Project was created for people that love Imagine Dragons. This project was 
 
 # Installation
 
-With node.js installed simply run:
+With node.js simply run the following commands
 
 ```bash
 # Run this to install imagine-dragons.js locally to your repository. 
