@@ -1,0 +1,21 @@
+{
+    "songs": [
+        {
+            "Thunder": {
+                "id": 1,
+                "title": "Thunder",
+                "duration": "",
+                "links": {
+                    "spotify": "",
+                    "youtube": "",
+                    "apple": ""
+                }
+            },
+            "": {
+                "id": 1,
+                "title": "Thunder",
+                "duration": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "imagine-dragons",
+  "version": "1.0.0",
+  "description": "A open source JSON Databse for all types of information regarding the band of imagine dragons",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EchoGronkowski/imagine-dragons.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EchoGronkowski/imagine-dragons.js/issues"
+  },
+  "homepage": "https://github.com/EchoGronkowski/imagine-dragons.js#readme"
+}
