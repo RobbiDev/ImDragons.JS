@@ -1,4 +1,4 @@
-const imaginejs = require('./getTitleByID.js')
+const imaginejs = require('./main.js')
 const db = require('./db.json')
 
 // Manual Indexing
@@ -6,3 +6,5 @@ const db = require('./db.json')
 
 console.log(imaginejs.getNameByID(0))
 
+
+console.log(imaginejs.getIdByName('Cock'))
