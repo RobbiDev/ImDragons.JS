@@ -1,4 +1,4 @@
-# Work List
+# NOTES
 
 ## TODO
 
@@ -7,7 +7,18 @@
 - [X] Get Name by ID Function
 - [X] Get ID by Name Function
 
-## Links
+4/22/2021
+
+- [] GetSongAlbum
+- [] GetSongReleased
+- [] GetSongLinks
+- [] GetSongGenre
+- [] GetSongDuration
+- [] GetSongID
+
+## LINKS
+
+Links for Later
 
 ```json
 "twitter": "https://twitter.com/Imaginedragons",
