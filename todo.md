@@ -2,8 +2,10 @@
 
 ## TODO
 
+4/21/2021
+
 - [X] Get Name by ID Function
-- [] Get ID by Name Function
+- [X] Get ID by Name Function
 
 ## Links
 
