@@ -1,4 +1,12 @@
-# TODO
+# Work List
+
+## TODO
 
 - [X] Get Name by ID Function
-- [X] Get ID by Name Function 
+- [] Get ID by Name Function
+
+## Links
+
+Spotify
+Apple Music
+Instagram

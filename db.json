@@ -1,46 +1,56 @@
 {
     "songs": [
         {
-            "thunder": {
-                "id": 0,
-                "title": "Thunder",
-                "duration": "",
-                "links": {
-                    "spotify": "",
-                    "youtube": "",
-                    "apple": ""
-                }
+            "id": 0,
+            "title": "Thunder",
+            "duration": "3:07",
+            "links": {
+                "spotify": "",
+                "youtube": "",
+                "apple": ""
             },
-            "Natural": {
-                "id": 1,
-                "title": "Natural",
-                "duration": "",
-                "links": {
-                    "spotify": "",
-                    "youtube": "",
-                    "apple": ""
-                }
-            }
+            "lyrics": "",
+            "album": "Evolve",
+            "grene": "Pop-rock",
+            "released": "April 27, 2017"
+        },
+        {
+            "id": 1,
+            "title": "Natural",
+            "duration": "3:09",
+            "links": {
+                "spotify": "",
+                "youtube": "",
+                "apple": ""
+            },
+            "lyrics": "",
+            "album": "Orgins",
+            "grene": "Pop-rock",
+            "released": "July 17, 2018"
         }
     ],
     "band": [
         {
             "social": {
-                "twitter": "",
-                "youtube": "",
-                "apple": "",
-                "spotify": "",
-                "instagram": ""
+                "twitter": "https://twitter.com/Imaginedragons",
+                "youtube": "https://www.youtube.com/channel/UCpx_k19S2vUutWUUM9qmXEg",
+                "apple": "https://music.apple.com/us/artist/imagine-dragons/358714030",
+                "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q",
+                "instagram": "",
+                "website": "https://www.imaginedragonsmusic.com/",
+                "facebook": "https://www.facebook.com/ImagineDragons/",
+                "email": "https://www.imaginedragonsmusic.com/#mailing-list"
             },
             "DanReynolds": {
                 "id": 0,
-                "fullname": "Dan Reynolds",
-                "role": "Lead Singer",
+                "fullname": "Dan Coulter Reynolds",
+                "role": "lead vocalist",
                 "social": {
                     "twitter": "",
                     "youtube": "",
                     "apple": ""
-                }
+                },
+                "born": "July 14, 1987"
             }
         }
     ]
