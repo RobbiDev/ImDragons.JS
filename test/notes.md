@@ -20,8 +20,6 @@ Notes to remember for my small ass brain
 
 ## LINKS
 
-Links for Later
-
 ```json
 "twitter": "https://twitter.com/Imaginedragons",
 "youtube": "https://www.youtube.com/channel/UCpx_k19S2vUutWUUM9qmXEg",
