@@ -19,7 +19,8 @@
 
 An open-source JSON Database Wrapper for all types of information regarding the band of Imagine Dragons.
 
-This Project was created for people that love Imagine Dragons. This project was also aimed at people who don't feel like spending hours and hours searching for information on all things Imagine Dragons. So, I've created a simple Node.js JSON Wrapper full of information regrading Imagine Dragons. Hope you enjoy my first big project!
+This Project was created for people that love Imagine Dragons. This project was also aimed at people who don't feel like spending hours and hours searching for information on all things Imagine Dragons. So, I've created a simple Node.js JSON Wrapper full of information regarding Imagine Dragons. Hope you enjoy my first big project!
+
 
 # Prerequisites
 
