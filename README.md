@@ -43,7 +43,7 @@ Boom, Thats it!
 - [Discord.js](https://github.com/discordjs/discord.js)
 - [Spotify JS API Wrapper](https://github.com/jmperez/spotify-web-api-js)
 
-# Credit
+# Credits
 
 - [Echo](https://github.com/EchoGronkowski) - Lead Programmer
 - [Unnecessary Libarys](https://github.com/unnecessarylibs) - Organizer
