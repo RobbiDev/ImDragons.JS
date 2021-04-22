@@ -9,6 +9,6 @@
 
 ## Links
 
-Spotify
-Apple Music
-Instagram
+- Spotify:
+- Apple Music:
+- Instagram:
