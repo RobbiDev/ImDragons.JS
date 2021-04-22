@@ -1,8 +1,8 @@
 <h1 align="center" >Imagine-Dragons.js</h1>
 
 <p align="center">
-   <a herf="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt"> <img alt="GitHub" src="https://img.shields.io/github/license/echogronkowski/imagine-dragons.js"> </a>
-   <a herf="https://www.npmjs.com/package/imagine-dragons.js"> <img alt="npm" src="https://img.shields.io/npm/v/imagine-dragons.js"></a>
+   <a href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt"><img alt="GitHub" src="https://img.shields.io/github/license/echogronkowski/imagine-dragons.js"></a>
+   <a href="https://www.npmjs.com/package/imagine-dragons.js"><img src="https://img.shields.io/npm/v/imagine-dragons.js" alt="NPM package"></a>
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
+
 
 # About
 
