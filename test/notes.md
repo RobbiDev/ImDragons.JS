@@ -9,12 +9,12 @@
 
 4/22/2021
 
-- [] GetSongAlbum
-- [] GetSongReleased
-- [] GetSongLinks
-- [] GetSongGenre
-- [] GetSongDuration
-- [] GetSongID
+- [ ] GetSongAlbum
+- [ ] GetSongReleased
+- [ ] GetSongLinks
+- [ ] GetSongGenre
+- [ ] GetSongDuration
+- [ ] GetSongID
 
 ## LINKS
 
