@@ -1,5 +1,5 @@
 const imaginejs = require('./main.js')
-const db = require('./db.json')
+const db = require('./lib/db.json')
 
 // Manual Indexing
 // console.log(db.songs[1].title)
