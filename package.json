@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/EchoGronkowski/imagine-dragons.js/issues"
   },
-  "homepage": "https://github.com/EchoGronkowski/imagine-dragons.js#readme"
+  "homepage": "https://github.com/EchoGronkowski/imagine-dragons.js#readme",
+  "dependencies": {}
 }

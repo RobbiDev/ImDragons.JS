@@ -1,8 +1,8 @@
 {
     "songs": [
         {
-            "Thunder": {
-                "id": 1,
+            "thunder": {
+                "id": 0,
                 "title": "Thunder",
                 "duration": "",
                 "links": {
@@ -11,10 +11,36 @@
                     "apple": ""
                 }
             },
-            "": {
+            "Natural": {
                 "id": 1,
-                "title": "Thunder",
-                "duration": ""
+                "title": "Natural",
+                "duration": "",
+                "links": {
+                    "spotify": "",
+                    "youtube": "",
+                    "apple": ""
+                }
+            }
+        }
+    ],
+    "band": [
+        {
+            "social": {
+                "twitter": "",
+                "youtube": "",
+                "apple": "",
+                "spotify": "",
+                "instagram": ""
+            },
+            "DanReynolds": {
+                "id": 0,
+                "fullname": "Dan Reynolds",
+                "role": "Lead Singer",
+                "social": {
+                    "twitter": "",
+                    "youtube": "",
+                    "apple": ""
+                }
             }
         }
     ]
