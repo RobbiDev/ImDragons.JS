@@ -2,7 +2,9 @@
 
 ## About
 
-A open source JSON Wrapper for all types of information regarding the band of imagine dragons.
+An open-source JSON Database Wrapper for all types of information regarding the band of Imagine Dragons.
+
+This Project was created for people that love Imagine Dragons. This project was also aimed at people who don't feel like spending hours and hours searching for information on all things Imagine Dragons. So, I've created a simple Node.js JSON Wrapper full of information regrading Imagine Dragons. Hope you enjoy my first big project!
 
 ## Prerequisites
 
@@ -21,6 +23,11 @@ $ npm install imagine-dragons.js -g
 ```
 
 Boom, Thats it!
+
+## Works Well with
+
+- [Discord.js](https://github.com/discordjs/discord.js)
+- [Spotify JS API Wrapper](https://github.com/jmperez/spotify-web-api-js)
 
 ## Credit
 
