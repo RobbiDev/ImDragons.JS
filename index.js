@@ -7,4 +7,4 @@ const db = require('./lib/db.json')
 console.log(imaginejs.getNameByID(0))
 
 
-console.log(imaginejs.getIdByName('Cock'))
+console.log(imaginejs.getIdByName('Natural'))
