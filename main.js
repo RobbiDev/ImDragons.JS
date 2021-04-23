@@ -6,9 +6,9 @@ function getNameByID(id) {
 
 function getIdByName(name) {
 
-    if (name == "thunder" || name == "Thunder") {
+    if (name.toLowerCase() == "thunder") {
         return imaginejs.songs[0].id
-    } else if (name == "natural" || name == "Natural") {
+    } else if (name.toLowerCase() == "natural") {
         return imaginejs.songs[1].id
     } else {
         console.error("Song name doesn't seem to exist");
