@@ -1,4 +1,4 @@
-<img src="./img/imaginejs" alt="logo">
+<img src="https://github.com/EchoGronkowski/imagine-dragons.js/blob/main/img/imaginejs.png" alt="logo">
 
 <p align="center">
    <a href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt"><img alt="GitHub" src="https://img.shields.io/github/license/echogronkowski/imagine-dragons.js"></a>
