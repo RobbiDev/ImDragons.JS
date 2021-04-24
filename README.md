@@ -21,7 +21,7 @@ An open-source JSON Database Wrapper for all types of information regarding the 
 
 This Project was created for people that love Imagine Dragons. This project was also aimed at people who don't feel like spending hours and hours searching for information on all things Imagine Dragons. So, I've created a simple Node.js JSON Wrapper full of information regarding Imagine Dragons. Hope you enjoy my first big project!
 
-IMPORTANT: This project is still in development and unstable
+IMPORTANT: This project is still in development and unstable \
 IMPORTANT: We are in no way connected to Imagine Dragons nor do we represent them
 
 # Prerequisites
@@ -41,6 +41,33 @@ $ npm install imagine-dragons.js -g
 ```
 
 Boom, Thats it!
+
+# Documentation
+
+In Development
+
+# Example
+
+This exmaple is pretty simple. Simply set the ```name``` of parameter in ```getAlbumFromName(name)``` to get album name from that song
+
+```javascript
+// Imports imagine-dragons.js package
+const imaginejs = require('imagine-dragons.js')
+
+// Gives the name of the album 
+var album = imaginejs.getAlbumFromName('Thunder')
+
+// Outputs the Album name
+console.log(album)
+```
+
+## Output
+
+```shell
+Evolve 
+```
+
+The output would return a string called ```Evolve```
 
 # Compatible With
 
