@@ -19,9 +19,9 @@
             "title": "Natural",
             "duration": "3:09",
             "links": {
-                "spotify": "",
-                "youtube": "",
-                "apple": ""
+                "spotify": "https://open.spotify.com/album/1lMKmArXUO3zfLtKUfNqqX?highlight=spotify:track:7MumXNbXgu7UWcWXX4shnO",
+                "youtube": "https://www.youtube.com/watch?v=fKopy74weus",
+                "apple": "https://music.apple.com/us/album/thunder/1411625594?i=1411629089"
             },
             "lyrics": "",
             "album": "Orgins",

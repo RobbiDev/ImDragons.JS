@@ -30,3 +30,21 @@ Notes to remember for my small ass brain
 "facebook": "https://www.facebook.com/ImagineDragons/",
 "email": "https://www.imaginedragonsmusic.com/#mailing-list"
 ```
+
+## SONG LINKS
+
+### THUNDER
+
+```json 
+"spotify": "https://open.spotify.com/album/1lMKmArXUO3zfLtKUfNqqX?highlight=spotify:track:7MumXNbXgu7UWcWXX4shnO",
+"youtube": "https://www.youtube.com/watch?v=fKopy74weus",
+"apple": "https://music.apple.com/us/album/thunder/1411625594?i=1411629089"
+```
+
+### NATURAL
+
+```json
+"spotify": "",
+"youtube": "",
+"apple": ""
+```
