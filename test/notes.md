@@ -13,10 +13,23 @@ Notes to remember for my small ass brain
 
 - [X] GetSongAlbum
 - [X] GetSongReleased
-- [ ] GetSongLinks
+- [X] GetSongLinks
 - [X] GetSongGenre
-- [ ] GetSongDuration
+- [X] GetSongDuration
 - [X] GetSongID
+
+4/23/21
+
+- [X] Make errors give out Errors
+- [ ] Improve File structure
+- [ ] Add More Songs
+- [ ] Improve the readme 
+    - [ ] Add a better header
+    - [ ] Fix grammartical mistakes
+- [ ] Make examples folder 
+- [ ] Add helpful examples in folder
+- [ ] Make a documentation
+
 
 ## SOCIAL MEDIA LINKS
 
