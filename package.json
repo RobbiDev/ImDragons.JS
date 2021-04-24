@@ -2,7 +2,7 @@
   "name": "imagine-dragons.js",
   "version": "1.0.1",
   "description": "A open source JSON Databse for all types of information regarding the band of imagine dragons",
-  "main": "main.js",
+  "main": "./lib/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

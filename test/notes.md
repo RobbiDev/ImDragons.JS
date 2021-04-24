@@ -11,7 +11,7 @@ Notes to remember for my small ass brain
 
 4/22/2021
 
-- [ ] GetSongAlbum
+- [X] GetSongAlbum
 - [ ] GetSongReleased
 - [ ] GetSongLinks
 - [ ] GetSongGenre
