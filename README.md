@@ -3,6 +3,7 @@
 <p align="center">
    <a href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt"><img alt="GitHub" src="https://img.shields.io/github/license/echogronkowski/imagine-dragons.js"></a>
    <a href="https://www.npmjs.com/package/imagine-dragons.js"><img src="https://img.shields.io/npm/v/imagine-dragons.js" alt="NPM package"></a>
+   <a href="https://github.com/EchoGronkowski/imagine-dragons.js"><img src="https://img.shields.io/badge/state-pre--release-yellow" alt="state"></a>
 </p>
 
 <p align="center">
@@ -14,13 +15,14 @@
   <a href="#license">License</a>
 </p>
 
-
 # About
 
 An open-source JSON Database Wrapper for all types of information regarding the band of Imagine Dragons.
 
 This Project was created for people that love Imagine Dragons. This project was also aimed at people who don't feel like spending hours and hours searching for information on all things Imagine Dragons. So, I've created a simple Node.js JSON Wrapper full of information regarding Imagine Dragons. Hope you enjoy my first big project!
 
+IMPORTANT: This project is still in development and unstable
+IMPORTANT: We are in no way connected to Imagine Dragons nor do we represent them
 
 # Prerequisites
 
