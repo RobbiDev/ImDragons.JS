@@ -9,7 +9,7 @@
   <a href="#about">About</a> •
   <a href="#prerequisites">Prerequisites</a> •
   <a href="#installation">Installation</a> •
-  <a href="#works-well-with">Works-Well-with</a> •
+  <a href="#compatible-with">Compatible With</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
@@ -40,7 +40,7 @@ $ npm install imagine-dragons.js -g
 
 Boom, Thats it!
 
-# Works Well with
+# Compatible With
 
 - [Discord.js](https://github.com/discordjs/discord.js)
 - [Spotify JS API Wrapper](https://github.com/jmperez/spotify-web-api-js)
