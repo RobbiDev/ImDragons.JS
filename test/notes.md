@@ -12,13 +12,13 @@ Notes to remember for my small ass brain
 4/22/2021
 
 - [X] GetSongAlbum
-- [ ] GetSongReleased
+- [X] GetSongReleased
 - [ ] GetSongLinks
-- [ ] GetSongGenre
+- [X] GetSongGenre
 - [ ] GetSongDuration
-- [ ] GetSongID
+- [X] GetSongID
 
-## LINKS
+## SOCIAL MEDIA LINKS
 
 ```json
 "twitter": "https://twitter.com/Imaginedragons",

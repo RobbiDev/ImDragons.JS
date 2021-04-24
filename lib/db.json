@@ -1,5 +1,5 @@
 {
-    "songs": [
+    "songlist": [
         {
             "id": 0,
             "title": "Thunder",
@@ -11,7 +11,7 @@
             },
             "lyrics": "",
             "album": "Evolve",
-            "grene": "Pop-rock",
+            "genre": "Pop-rock",
             "released": "April 27, 2017"
         },
         {
@@ -25,7 +25,7 @@
             },
             "lyrics": "",
             "album": "Orgins",
-            "grene": "Pop-rock",
+            "genre": "Pop-rock",
             "released": "July 17, 2018"
         }
     ],
