@@ -1,6 +1,6 @@
 {
   "name": "imagine-dragons.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A open source JSON Databse for all types of information regarding the band of imagine dragons",
   "main": "./lib/main.js",
   "scripts": {
