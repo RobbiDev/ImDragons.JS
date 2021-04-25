@@ -23,10 +23,10 @@ Notes to remember for my small ass brain
 - [X] Make errors give out Errors
 - [ ] Improve File structure
 - [ ] Add More Songs
-- [ ] Improve the readme 
-    - [ ] Add a better header
+- [ ] Improve the readme
+    - [X] Add a better header
     - [ ] Fix grammartical mistakes
-- [ ] Make examples folder 
+- [ ] Make examples folder
 - [ ] Add helpful examples in folder
 - [ ] Make a documentation
 
