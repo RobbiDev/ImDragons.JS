@@ -76,7 +76,7 @@ The output would return a string called ```Evolve```
 
 # Credits
 
-- [Echo](https://github.com/EchoGronkowski) - Lead Programmer
+- [PengY](https://github.com/pengyofficial) - Lead Programmer
 - [Unnecessary Libarys](https://github.com/unnecessarylibs) - Organizer
 
 # License
