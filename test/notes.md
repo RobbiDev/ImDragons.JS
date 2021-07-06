@@ -16,19 +16,22 @@ Notes to remember for my small ass brain
 - [X] GetSongLinks
 - [X] GetSongGenre
 - [X] GetSongDuration
-- [X] GetSongID
 
 4/23/21
 
 - [X] Make errors give out Errors
-- [ ] Improve File structure
-- [ ] Add More Songs
-- [ ] Improve the readme
+- [X] Improve File structure
+- [X] Improve the readme
     - [X] Add a better header
-    - [ ] Fix grammartical mistakes
-- [ ] Make examples folder
-- [ ] Add helpful examples in folder
-- [ ] Make a documentation
+    - [X] Fix grammartical mistakes
+- [X] Make examples folder
+
+7/6/21
+- [ ] Better Errors
+- [ ] Add All of Evolve
+- [ ] Work on Docs
+- [ ] Make examples
+- [ ] Work on Album DB
 
 
 ## SOCIAL MEDIA LINKS

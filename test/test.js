@@ -1,6 +1,8 @@
-const imaginejs = require('../lib/main.js')
-const db = require('../lib/db.json')
+const imaginejs = require('../lib/index.js')
+const db = require('../lib/db/songlist.json')
+const band = require('../lib/db/band.json')
+const main = require('../lib/index.js')
 
-var link = imaginejs.getLinksByID(0)
+var album = main.getSongData("Believer")
 
-console.log(link.spotify)
+console.log(album)
