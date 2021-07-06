@@ -49,7 +49,7 @@ In Development
 
 # Example
 
-This exmaple is pretty simple. Simply set the ```name``` of parameter in ```getAlbumFromName(name)``` to output a string named ```Evolve```.
+This exmaple is pretty simple. Simply set the ```name``` parameter in ```getAlbumFromName(name)``` to output a string named ```Evolve```.
 
 ```javascript
 // Imports imagine-dragons.js package
