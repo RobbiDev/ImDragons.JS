@@ -1,6 +1,6 @@
 {
   "name": "imagine-dragons.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A open source JSON Databse for all types of information regarding the band of imagine dragons",
   "main": "./lib/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/pengyofficial/imagine-dragons.js.git"
   },
-  "author": "",
+  "author": "echogronkowksi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pengyofficial/imagine-dragons.js/issues"
