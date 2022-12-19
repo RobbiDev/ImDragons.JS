@@ -1,20 +1,15 @@
 {
-  "name": "imagine-dragons.js",
-  "version": "1.0.6",
-  "description": "A open source JSON Databse for all types of information regarding the band of imagine dragons",
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "",
   "main": "./lib/index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pengyofficial/imagine-dragons.js.git"
-  },
-  "author": "echogronkowksi",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pengyofficial/imagine-dragons.js/issues"
-  },
-  "homepage": "https://github.com/pengyofficial/imagine-dragons.js#readme",
-  "dependencies": {}
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
 }

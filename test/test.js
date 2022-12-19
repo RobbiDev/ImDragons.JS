@@ -1,8 +1,5 @@
-const imaginejs = require('../lib/index.js')
-const db = require('../lib/db/songlist.json')
-const band = require('../lib/db/band.json')
-const main = require('../lib/index.js')
+import band from '../data/band.json'
 
-var album = main.getSongData("Believer")
+var album = main.getBandInfo("Believer")
 
 console.log(album)
