@@ -1,6 +1,6 @@
 {
-  "name": "testapi",
-  "version": "1.0.0",
+  "name": "imagine-dragons.js",
+  "version": "1.0.7",
   "description": "",
   "main": "./lib/index.js",
   "type": "module",
