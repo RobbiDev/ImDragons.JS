@@ -2,7 +2,7 @@
   "name": "imagine-dragons.js",
   "version": "1.0.7",
   "description": "",
-  "main": "./lib/index.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.6.7"
+    "node-fetch": "^2.6.7",
+    "undici": "^5.14.0"
   }
 }
