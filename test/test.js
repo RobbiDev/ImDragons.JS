@@ -1,5 +1,3 @@
-import band from '../data/band.json'
+const main = require('../lib/index')
 
-var album = main.getBandInfo("Believer")
-
-console.log(album)
+main.getBandJSON()
