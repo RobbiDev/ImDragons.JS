@@ -74,12 +74,7 @@ Expected Output should be as follow
             "Wayne Sermon",
             "Daniel Platzman"
         ]
-    },
-    "awards": [
-        "Grammy Award for Best Rock Performance (2014)",
-        "Billboard Music Award for Top Rock Artist (2014)",
-        "American Music Award for Favorite Alternative Artist (2018)"
-    ],
+    }
 ```
 
 # Links
