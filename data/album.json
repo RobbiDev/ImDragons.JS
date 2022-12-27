@@ -1,3 +1,78 @@
 {
-    "AlbumData": "Work in Progress"
+    "albums": [
+        {
+            "title": "Night Visions",
+            "release date": "September 4, 2012",
+            "songs": [
+                "Radioactive",
+                "Tiptoe",
+                "It's Time",
+                "Demons",
+                "On Top of the World",
+                "Amsterdam",
+                "Hear Me",
+                "Every Night",
+                "Bleeding Out",
+                "Nothing Left to Say / Rocks"
+            ]
+        },
+        {
+            "title": "Smoke + Mirrors",
+            "release date": "February 17, 2015",
+            "songs": [
+                "Shots",
+                "Gold",
+                "Smoke and Mirrors",
+                "I'm So Sorry",
+                "I Bet My Life",
+                "Polaroid",
+                "Friction",
+                "It Comes Back to You",
+                "Dream",
+                "Trouble",
+                "Summer",
+                "Hopeless Opus",
+                "The Fall"
+            ]
+        },
+        {
+            "title": "Evolve",
+            "release date": "June 23, 2017",
+            "songs": [
+                "I Don't Know Why",
+                "Whatever It Takes",
+                "Believer",
+                "Walking the Wire",
+                "Rise Up",
+                "I'll Make It Up to You",
+                "Yesterday",
+                "Mouth of the River",
+                "Thunder",
+                "Start Over",
+                "Dancing In the Dark"
+            ]
+        },
+        {
+            "title": "Origins",
+            "release date": "November 9, 2018",
+            "songs": [
+                "Natural",
+                "Boomerang",
+                "Machine",
+                "Cool Out",
+                "Bad Liar",
+                "West Coast",
+                "Zero",
+                "Bullet in a Gun",
+                "Digital",
+                "Only",
+                "Stuck",
+                "Love",
+                "Birds",
+                "Burn Out",
+                "Real Life",
+                "Levitate"
+            ]
+        }
+    ]
 }

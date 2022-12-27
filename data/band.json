@@ -1,8 +1,16 @@
 {
     "details": {
         "origin": "Las Vegas, Nevada, United States",
-        "genres": ["Alternative rock", "Indie rock", "Electronic rock"],
-        "labels": ["Interscope Records", "KIDinaKORNER"],
+        "years active": "2008-present",
+        "genres": [
+            "Alternative rock",
+            "Indie rock",
+            "Electronic rock"
+        ],
+        "labels": [
+            "Interscope Records",
+            "KIDinaKORNER"
+        ],
         "members": [
             "Daniel Samardžić",
             "Dan Reynolds",
@@ -11,6 +19,11 @@
             "Daniel Platzman"
         ]
     },
+    "awards": [
+        "Grammy Award for Best Rock Performance (2014)",
+        "Billboard Music Award for Top Rock Artist (2014)",
+        "American Music Award for Favorite Alternative Artist (2018)"
+    ],
     "socialmedia": {
         "twitter": "https://twitter.com/Imaginedragons",
         "youtube": "https://www.youtube.com/channel/UCpx_k19S2vUutWUUM9qmXEg",

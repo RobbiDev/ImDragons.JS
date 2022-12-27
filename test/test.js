@@ -1,11 +1,8 @@
-const main = require('../lib/index')
-const https = require('node:https')
-const http = require('node:http')
+const imaginejs = require('../lib/index')
 
-main.getBandJSON()
+imaginejs.indexer.getBandJSON()
   .then((data) => {
-    console.log(data);  // Output: JSON object from API call
+    // Do something with the data here
+    let band = data.details
+    console.log(band)
   })
-  .catch((error) => {
-    console.error(error);
-});
