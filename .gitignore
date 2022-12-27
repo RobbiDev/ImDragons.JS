@@ -1,5 +1,7 @@
 # Packages
 node_modules/
 
+data/
+
 # 
-.package-lock.json
+package-lock.json
