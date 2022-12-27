@@ -9,7 +9,8 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#prerequisites">Prerequisites</a> •
-  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#links">Links</a> •
   <a href="#compatible-with">Compatible With</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
@@ -17,21 +18,16 @@
 
 # About
 
-An open-source JSON Database Wrapper for all types of information regarding the band of Imagine Dragons.
-
-This Project was created for people that love Imagine Dragons. This project was also aimed at people who don't feel like spending hours and hours searching for information on all things Imagine Dragons. So, I've created a simple Node.js JSON Wrapper full of information regarding Imagine Dragons. Hope you enjoy my first big project!
-
-IMPORTANT: This project is still in development and **HEAVILY** unstable \
-IMPORTANT: We are in no way connected to Imagine Dragons nor do we represent them
+Imagine-dragons.js is a [NodeJS](https://nodejs.org/en/download/current/) library that utilizes the Unnecessary Libraries [ImDragonAPI](https://nodejs.org/en/download/current/). Making it easier for Developers to instantly find any information regarding the band of "Imagine Dragons". Making a simple way to index though the mass amounts of Data the API has to offer. Along with all that data, theres always more being added. Like Whenever new Songs or albums are released. They are added within Mins of release. Keeping all information dynamically updated across all your projects. 
 
 # Prerequisites
 
+- [NodeJS](https://nodejs.org/en/download/current/)
 - Basic Javascipt Knowledge
-- [node.js](https://nodejs.org/en/download/current/)
 
-# Installation
+# Usage
 
-With node.js simply run the following commands
+Installing the Library within a NodeJS enviorment
 
 ```bash
 # Run this to install imagine-dragons.js locally to your repository. 
@@ -41,44 +37,66 @@ $ npm install imagine-dragons.js --save
 $ npm install imagine-dragons.js -g
 ```
 
-Boom, Thats it!
+This example is a simple Indexer function of ```getBandJSON()```. that makes a simple API GET/request to ```https://api.unnecessarylibraries.com```. 
 
-# Documentation
-
-In Development
-
-# Example
-
-This exmaple is pretty simple. Simply set the ```name``` parameter in ```getAlbumFromName(name)``` to output a string named ```Evolve```.
 
 ```javascript
-// Imports imagine-dragons.js package
-const imaginejs = require('imagine-dragons.js')
+// Requires the imagine-dragons.js NPM Package
+const imaginejs = require("imagine-dragons.js")
 
-// Gives the name of the album 
-var album = imaginejs.getAlbumName('Thunder')
-
-// Outputs the Album name
-console.log(album)
+// Calling a Indexer and Using the Function "getBandJSON()""
+imaginejs.indexer.getBandJSON()
+  .then((data) => {
+    // Do something with the data here (Ex: console.log(data.details))
+    console.log(data.details)
+  })
 ```
 
-## Output
+Expected Output should be as follow
 
-```shell
-Evolve 
+```json
+  "details": {
+        "origin": "Las Vegas, Nevada, United States",
+        "years active": "2008-present",
+        "genres": [
+            "Alternative rock",
+            "Indie rock",
+            "Electronic rock"
+        ],
+        "labels": [
+            "Interscope Records",
+            "KIDinaKORNER"
+        ],
+        "members": [
+            "Daniel Samardžić",
+            "Dan Reynolds",
+            "Ben McKee",
+            "Wayne Sermon",
+            "Daniel Platzman"
+        ]
+    },
+    "awards": [
+        "Grammy Award for Best Rock Performance (2014)",
+        "Billboard Music Award for Top Rock Artist (2014)",
+        "American Music Award for Favorite Alternative Artist (2018)"
+    ],
 ```
 
-The output would return a string called ```Evolve```
+# Links
+
+- [Github](https://github.com/RobbiDev/imagine-dragons.js)
+- [npm](https://www.npmjs.com/package/imagine-dragons.js)
+- [Unnecessary Libraries Discord](https://discord.gg/y8TYje4PXH)
 
 # Compatible With
 
 - [Discord.js](https://github.com/discordjs/discord.js)
-- [Spotify.js API Wrapper](https://github.com/jmperez/spotify-web-api-js)
+- [Spotify Web API](https://github.com/jmperez/spotify-web-api-js)
 
 # Credits
 
 - [RobbiDev](https://github.com/pengyofficial) - Lead Programmer
-- [Unnecessary Libarys](https://github.com/unnecessarylibs) - Organizer
+- [Unnecessary Libraries](https://github.com/unnecessarylibs) - Organizer
 
 # License
 
