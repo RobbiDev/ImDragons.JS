@@ -1,7 +1,6 @@
-# Packages
+# Directories 
 node_modules/
-
 data/
 
-# 
+# Files
 package-lock.json
