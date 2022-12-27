@@ -1,11 +1,22 @@
 {
   "name": "imagine-dragons.js",
   "version": "1.0.7",
-  "description": "",
-  "main": "index.js",
+  "description": "A open source JSON Databse for all types of information regarding the band of imagine dragons",
+  "main": "./lib/index.js",
   "scripts": {
-    "test": "node ./test/test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbidev/imagine-dragons.js.git"
+  },
+  "author": "RobbiDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robbidev/imagine-dragons.js/issues"
+  },
+  "homepage": "https://github.com/robbidev/imagine-dragons.js#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.0"
+  }
 }
