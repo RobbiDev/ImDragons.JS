@@ -18,7 +18,7 @@
 
 # About
 
-Imagine-dragons.js is a [NodeJS](https://nodejs.org/en/download/current/) library that utilizes the Unnecessary Libraries [ImDragonAPI](https://nodejs.org/en/download/current/). Making it easier for Developers to instantly find any information regarding the band of "Imagine Dragons". Making a simple way to index though the mass amounts of Data the API has to offer. Along with all that data, theres always more being added. Like Whenever new Songs or albums are released. They are added within Mins of release. Keeping all information dynamically updated across all your projects. 
+Imagine-dragons.js is a [NodeJS](https://nodejs.org/en/download/current/) library that utilizes the Unnecessary Libraries [ImDragonsAPI](https://github.com/unnecessarylibs/ImDragonsAPI). Making it easier for Developers to instantly find any information regarding the band of "Imagine Dragons". Making a simple way to index though the mass amounts of Data the API has to offer.
 
 # Prerequisites
 
@@ -37,19 +37,18 @@ $ npm install imagine-dragons.js --save
 $ npm install imagine-dragons.js -g
 ```
 
-This example is a simple Indexer function of ```getBandJSON()```. that makes a simple API GET/request to ```https://api.unnecessarylibraries.com```. 
+This example is Creating a new Indexer class, thats sends a **GET/request** to the ImDragonsAPI looking for the **"band"** Collection. Once we Recieve the collection we can index throught it and we can find the Band Details.
 
 
 ```javascript
-// Requires the imagine-dragons.js NPM Package
-const imaginejs = require("imagine-dragons.js")
+// Import Imgaine-Dragons.js
+import { Indexer } from "imagine-dragons.js"
 
-// Calling a Indexer and Using the Function "getBandJSON()""
-imaginejs.indexer.getBandJSON()
-  .then((data) => {
-    // Do something with the data here (Ex: console.log(data.details))
-    console.log(data.details)
-  })
+// Create a New Indexer of Band Data
+const indexer = new Indexer()
+
+// Shows all Band JSON Infomation 
+console.log(indexer.details)
 ```
 
 Expected Output should be as follow
@@ -81,6 +80,7 @@ Expected Output should be as follow
 
 - [Github](https://github.com/RobbiDev/imagine-dragons.js)
 - [npm](https://www.npmjs.com/package/imagine-dragons.js)
+- [ImDragonsAPI](https://github.com/unnecessarylibs/ImDragonsAPI)
 - [Unnecessary Libraries Discord](https://discord.gg/y8TYje4PXH)
 
 # Compatible With
