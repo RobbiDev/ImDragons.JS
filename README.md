@@ -82,12 +82,14 @@ Expected Output should be as follow
 - [Github](https://github.com/RobbiDev/imagine-dragons.js)
 - [npm](https://www.npmjs.com/package/imagine-dragons.js)
 - [ImDragonsAPI](https://github.com/unnecessarylibs/ImDragonsAPI)
-- [Unnecessary Libraries Discord](https://discord.gg/y8TYje4PXH)
+- [Unnecessary Libraries](https://github.com/unnecessarylibs)
+- [Community Discord](https://discord.gg/y8TYje4PXH)
 
 # Compatible With
 
 - [Discord.js](https://github.com/discordjs/discord.js)
 - [Spotify Web API](https://github.com/jmperez/spotify-web-api-js)
+- Many Many More
 
 # License
 
