@@ -1,11 +1,13 @@
 {
   "name": "imagine-dragons.js",
-  "version": "1.0.7",
+  "version": "1.0.9",
+  "exports": "./lib/index.js",
+  "type": "module",
   "description": "A open source JSON Databse for all types of information regarding the band of imagine dragons",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "node ./test/test.js"
+ },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/robbidev/imagine-dragons.js.git"
@@ -16,7 +18,7 @@
     "url": "https://github.com/robbidev/imagine-dragons.js/issues"
   },
   "homepage": "https://github.com/robbidev/imagine-dragons.js#readme",
-  "devDependencies": {
-    "jsdoc": "^4.0.0"
+  "dependencies": {
+    "got": "^12.5.3"
   }
 }

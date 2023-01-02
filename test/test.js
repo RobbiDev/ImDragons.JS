@@ -1,8 +1,8 @@
-const imaginejs = require('../lib/index')
+// Import Imgaine-Dragons.js
+import { Indexer } from "../lib/index.js"
 
-imaginejs.indexer.getBandJSON()
-  .then((data) => {
-    // Do something with the data here
-    let band = data.details.labels[1]
-    console.log(band)
-  })
+// Create a New Indexer of Band Data
+const indexer = new Indexer()
+
+// Shows all Band JSON Infomation 
+console.log(indexer)
