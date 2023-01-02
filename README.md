@@ -23,6 +23,7 @@ Imagine-dragons.js is a [NodeJS](https://nodejs.org/en/download/current/) librar
 # Prerequisites
 
 - [NodeJS](https://nodejs.org/en/download/current/)
+- Understanding of the [ImDragonsAPI](https://github.com/unnecessarylibs/ImDragonsAPI) 
 - Basic Javascipt Knowledge
 
 # Usage
@@ -87,11 +88,6 @@ Expected Output should be as follow
 
 - [Discord.js](https://github.com/discordjs/discord.js)
 - [Spotify Web API](https://github.com/jmperez/spotify-web-api-js)
-
-# Credits
-
-- [RobbiDev](https://github.com/pengyofficial) - Lead Programmer
-- [Unnecessary Libraries](https://github.com/unnecessarylibs) - Organizer
 
 # License
 
