@@ -31,11 +31,11 @@ Imagine-dragons.js is a [NodeJS](https://nodejs.org/en/download/current/) librar
 Installing the Library within a NodeJS enviorment
 
 ```bash
-# Run this to install imagine-dragons.js locally to your repository. 
-$ npm install imagine-dragons.js --save
+# Run this to install imdragons.js
+$ npm install imdragons.js 
 
-# Run this instead to install imagine-dragons.js globally so you can use it anywhere.
-$ npm install imagine-dragons.js -g
+# Run this instead to install imdragons.js globally so you can use it anywhere.
+$ npm install imdragons.js -g
 ```
 
 This example is Creating a new Indexer class, thats sends a **GET/request** to the ImDragonsAPI looking for the **"band"** Collection. Once we Recieve the collection we can index throught it and we can find the Band Details.
