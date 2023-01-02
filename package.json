@@ -1,24 +1,45 @@
 {
-  "name": "imagine-dragons.js",
-  "version": "1.0.9",
+  "name": "ImDragons.js",
+  "version": "1.0.0",
+  "description": "A NodeJS Library that Uses the ImDragonsAPI from Unnecessary Libraries to allow easier access to the API.",
+  "main": "index.js",
   "exports": "./lib/index.js",
   "type": "module",
-  "description": "A open source JSON Databse for all types of information regarding the band of imagine dragons",
-  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "cacheable-lookup": "^7.0.0",
+    "cacheable-request": "^10.2.4",
+    "decompress-response": "^6.0.0",
+    "defer-to-connect": "^2.0.1",
+    "form-data-encoder": "^2.1.4",
+    "get-stream": "^6.0.1",
+    "got": "^12.5.3",
+    "http-cache-semantics": "^4.1.0",
+    "http2-wrapper": "^2.2.0",
+    "json-buffer": "^3.0.1",
+    "keyv": "^4.5.2",
+    "lowercase-keys": "^3.0.0",
+    "mimic-response": "^4.0.0",
+    "normalize-url": "^8.0.0",
+    "p-cancelable": "^3.0.0",
+    "quick-lru": "^5.1.1",
+    "resolve-alpn": "^1.2.1",
+    "responselike": "^3.0.0"
+  },
   "scripts": {
-    "test": "node ./test/test.js"
- },
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robbidev/imagine-dragons.js.git"
+    "url": "git+https://github.com/RobbiDev/ImDragons.JS.git"
   },
   "author": "RobbiDev",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/robbidev/imagine-dragons.js/issues"
+    "url": "https://github.com/RobbiDev/ImDragons.JS/issues"
   },
-  "homepage": "https://github.com/robbidev/imagine-dragons.js#readme",
-  "dependencies": {
-    "got": "^12.5.3"
-  }
+  "homepage": "https://github.com/RobbiDev/ImDragons.JS#readme"
 }
