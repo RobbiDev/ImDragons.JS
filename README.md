@@ -22,26 +22,23 @@
   <a href="#license">License</a>
 </p>
 
-# About
+# 👋 About
 
 Imagine-dragons.js is a [NodeJS](https://nodejs.org/en/download/current/) library that utilizes the Unnecessary Libraries [ImDragonsAPI](https://github.com/unnecessarylibs/ImDragonsAPI). Making it easier for Developers to instantly find any information regarding the band of "Imagine Dragons". Making a simple way to index though the mass amounts of Data the API has to offer.
 
-# Prerequisites
+# ⚙️ Prerequisites
 
 - [NodeJS](https://nodejs.org/en/download/current/)
 - Understanding of the [ImDragonsAPI](https://github.com/unnecessarylibs/ImDragonsAPI) 
 - Basic Javascipt Knowledge
 
-# Usage
+# 🚀 Usage
 
 Installing the Library within a NodeJS enviorment
 
 ```bash
-# Run this to install imdragons.js
+# install imdragons.js
 $ npm install imdragons.js 
-
-# Run this instead to install imdragons.js globally so you can use it anywhere.
-$ npm install imdragons.js -g
 ```
 
 This example is Creating a new Indexer class, thats sends a **GET/request** to the ImDragonsAPI looking for the **"band"** Collection. Once we Recieve the collection we can index throught it and we can find the Band Details.
@@ -83,7 +80,7 @@ Expected Output should be as follow
     }
 ```
 
-# Links
+# 🔗 Links
 
 - [Github](https://github.com/RobbiDev/imagine-dragons.js)
 - [npm](https://www.npmjs.com/package/imagine-dragons.js)
@@ -91,12 +88,12 @@ Expected Output should be as follow
 - [Unnecessary Libraries](https://github.com/unnecessarylibs)
 - [Community Discord](https://discord.gg/y8TYje4PXH)
 
-# Compatible With
+# 🧩 Compatible With
 
 - [Discord.js](https://github.com/discordjs/discord.js)
 - [Spotify Web API](https://github.com/jmperez/spotify-web-api-js)
 - Many Many More
 
-# License
+# 📄 License
 
 MIT
