@@ -1,0 +1,16 @@
+{
+    "apiDomain": "api.unnecessarylibraries.com",
+    "apiURL": "https://api.unnecessarylibraries.com",
+
+    "mainID_js": "/imdragons",
+
+
+    "collection": "/imdragons/v1/collection",
+    "individual": "/imdragons/v1/individual",
+
+    "endpoints": {
+        "collection": ["album", "info", "band"],
+        "individual": ["thunder"]
+    }
+
+}

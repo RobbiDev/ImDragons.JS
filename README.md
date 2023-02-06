@@ -46,13 +46,13 @@ This example is Creating a new Indexer class, thats sends a **GET/request** to t
 
 ```javascript
 // Import Imgaine-Dragons.js
-import { Indexer } from "imdragons.js"
+import { Collection } from "../lib/index.js"
 
-// Create a New Indexer
-const indexer = new Indexer('band')
+// Calling a Collection indexer to search for band info
+const info = await Collection("info")
 
-// Show JSON Data 
-console.log(indexer)
+// Shows all Band JSON Infomation 
+console.log(info)
 ```
 
 Expected Output should be as follow
