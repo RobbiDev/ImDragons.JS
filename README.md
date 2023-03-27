@@ -24,7 +24,7 @@
 
 # 👋 About
 
-Imagine-dragons.js is a [NodeJS](https://nodejs.org/en/download/current/) library that utilizes the Unnecessary Libraries [ImDragonsAPI](https://github.com/unnecessarylibs/ImDragonsAPI). Making it easier for Developers to instantly find any information regarding the band of "Imagine Dragons". Making a simple way to index though the mass amounts of Data the API has to offer.
+Imagine-dragons.js is a [NodeJS](https://nodejs.org/en/download/current/) library that utilizes the Unnecessary Libraries [ImDragonsAPI](https://github.com/unnecessarylibs/ImDragonsAPI). Making it easier for Developers to instantly find any information regarding the band "Imagine Dragons". Making a simple way to index though the mass amounts of Data the API has to offer.
 
 # ⚙️ Prerequisites
 
@@ -41,7 +41,7 @@ Installing the Library within a NodeJS enviorment
 $ npm install imdragons.js 
 ```
 
-This example is Creating a new Indexer class, thats sends a **GET/request** to the ImDragonsAPI looking for the **"band"** Collection. Once we Recieve the collection we can index throught it and we can find the Band Details.
+This example is Creating a new Indexer class, thats sends a **GET/request** to the ImDragonsAPI looking for the **"band"** Collection. Once we Recieve the collection we can index through it and we can find the Band Details.
 
 
 ```javascript
@@ -55,7 +55,7 @@ const info = await Collection("info")
 console.log(info)
 ```
 
-Expected Output should be as follow
+Expected Output should be as follows
 
 ```json
   "details": {
